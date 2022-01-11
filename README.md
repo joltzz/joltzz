@@ -1,6 +1,7 @@
 ### Hello there, my name is Guilherme Silva
 - ❄️I’m currently learning JavaScript
 - ❄️I’m looking for work as a Programmer Junior
+- ❄️At the moment i am studying with Driven
 - ❄️You can reach me in my email: guijsilva02@gmail.com
 ##
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=joltzz&show_icons=true&theme=nord) <img align="right" alt="Gui-pic" height="197" style="border-radius:100px;"
