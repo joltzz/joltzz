@@ -5,7 +5,7 @@
 - ❄️You can reach me in my email: guijsilva02@gmail.com
 ##
 ![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=joltzz&show_icons=true&theme=nord) <img align="right" alt="Gui-pic" height="197" style="border-radius:100px;"
-src=http://i.imgur.com/RjFjUHs.gif>[![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joltzz&langs_count=8&theme=nord)](https://github.com/joltzz/github-readme-stats)
+
 
 <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
