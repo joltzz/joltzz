@@ -1,6 +1,6 @@
 ### Hello there, my name is Guilherme Silva
 - ❄️I’m currently studying Full Stack Development at Driven
-- ❄️I’m looking for work as a Programmer Junior
+- ❄️I’m looking for work as a Web Developer Junior
 - ❄️You can reach me by my email: guijsilva02@gmail.com
 ##
 <div align="center">
