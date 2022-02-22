@@ -3,6 +3,7 @@
 - ❄️I’m looking for work as a Web Developer Junior
 <br>
 <p style="margin-left:10px"> At this moment i am 19 years old, looking to learn new languages, job experiences, courses and to be a better person :)</p>
+<p>#python #java #html #css #javascript</p>
 
 ##
 <div align="center">
