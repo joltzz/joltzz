@@ -1,10 +1,11 @@
 ### Hello there, my name is Guilherme Silva
-- ❄️I’m currently studying Full Stack Development at Driven
-- ❄️I’m looking for work as a Web Developer Junior
-<br>
 <div>
   <img align="right" alt="Git-Computador" width="200px" src="https://c.tenor.com/CHuHmldfxCEAAAAC/pokemon-clefairy.gif"/>
 </div>
+- ❄️I’m currently studying Full Stack Development at Driven
+- ❄️I’m looking for work as a Web Developer Junior
+<br>
+
 <p style="margin-left:10px"> At this moment i am 19 years old, i study computer science in Unisinos, 
   i am looking to learn new languages, job experciences,</p>
 <p>#python #java #html #css #javascript #react</p>
