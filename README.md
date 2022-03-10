@@ -2,7 +2,11 @@
 - ❄️I’m currently studying Full Stack Development at Driven
 - ❄️I’m looking for work as a Web Developer Junior
 <br>
-<p style="margin-left:10px"> At this moment i am 19 years old, looking to learn new languages, job experiences, courses and to be a better person :)</p>
+<div>
+  <img align="right" alt="Git-Computador" width="150px" src="https://media1.tenor.com/images/7dcc91639252ddd73733b6aa77f40ce0/tenor.gif?itemid=13859019"/>
+</div>
+<p style="margin-left:10px"> At this moment i am 19 years old, i study computer science in Unisinos, 
+  i am looking to learn new languages, job experciences,</p>
 <p>#python #java #html #css #javascript #react</p>
 
 ##
