@@ -17,6 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joltzz&show_icons=true&theme=nord&include_all_commits=true&count_private=true"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joltzz&layout=compact&langs_count=7&theme=nord"/>
   </div>
 <br>
+  ![Snake animation](https://github.com/joltzz/joltzz/blob/output/github-contribution-grid-snake.svg)
   <div align="center">
 <img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="S" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
     </div>
@@ -33,5 +34,4 @@
   <img align="center" alt="Pixel-Art" width="1000px" src="https://64.media.tumblr.com/88578e368c42a6c764b6445936649235/6586c917081d540d-47/s640x960/4691e1005b145f65e03c2f30e55dabe0153b465f.gifv"/>
   <br>
   <br>
-  ![Snake animation](https://github.com/joltzz/joltzz/blob/output/github-contribution-grid-snake.svg)
 </div>
