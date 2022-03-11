@@ -4,11 +4,11 @@
 </div>
 - ❄️I’m currently studying Full Stack Development at Driven
 - <br>
-- ❄️I’m looking for work as a Web Developer Junior
+- ❄️I’m looking for work as a Web Developer 
 <br>
 <br>
-<p style="margin-left:10px"> At this moment i am 19 years old, i study computer science in Unisinos, 
-  i am looking to learn new languages, job experciences,</p>
+<p style="margin-left:10px"> At this moment i am 19 years old, i am a computer science student 
+ looking to learn new languages, job experciences and to be a professional programmer</p>
 <p>#python #java #html #css #javascript #react</p>
 
 ##
