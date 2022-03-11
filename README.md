@@ -1,6 +1,6 @@
 ### Hello there, my name is Guilherme Silva
 <div>
-  <img align="right" alt="Git-Computador" width="200px" src="https://c.tenor.com/CHuHmldfxCEAAAAC/pokemon-clefairy.gif"/>
+  <img align="right" alt="Git-Computador" width="250px" src="https://c.tenor.com/CHuHmldfxCEAAAAC/pokemon-clefairy.gif"/>
 </div>
 - ❄️I’m currently studying Full Stack Development at Driven
 - <br>
@@ -17,7 +17,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joltzz&show_icons=true&theme=nord&include_all_commits=true&count_private=true"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joltzz&layout=compact&langs_count=7&theme=nord"/>
   </div>
 <br>
-<img align="center" alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="S" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <div align="center">
+<img alt="Gui-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><img align="center" alt="Gui-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /> <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="S" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    </div>
 
 
 ##
