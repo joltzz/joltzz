@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/guilherme-jankowiak-silva-a57519209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <br>
   <br>
-  <img align="center" alt="Pixel-Art" width="1000px" src="https://64.media.tumblr.com/88578e368c42a6c764b6445936649235/6586c917081d540d-47/s640x960/4691e1005b145f65e03c2f30e55dabe0153b465f.gifv"/>
+  ![Snake animation](https://github.com/joltzz/joltzz/blob/output/github-contribution-grid-snake.svg)
   <br>
   <br>
 </div>
