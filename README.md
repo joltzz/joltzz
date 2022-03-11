@@ -32,7 +32,7 @@
   <br>
   <img align="center" alt="Pixel-Art" width="1000px" src="https://64.media.tumblr.com/88578e368c42a6c764b6445936649235/6586c917081d540d-47/s640x960/4691e1005b145f65e03c2f30e55dabe0153b465f.gifv"/>
   <br>
-  <div align="center"
+  <div align="center">
   ![Snake animation](https://github.com/joltzz/joltzz/blob/output/github-contribution-grid-snake.svg)
        </div>
 </div>
