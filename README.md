@@ -2,13 +2,13 @@
 <div>
   <img align="right" align="top" alt="Git-Computador" width="250px" src="https://c.tenor.com/CHuHmldfxCEAAAAC/pokemon-clefairy.gif"/>
 </div>
-- ❄️I’m currently studying Full Stack Development at Driven
-- <br>
-- ❄️I’m looking for work as a Web Developer 
+- ❄️I’m currently studying Full Stack Development at Driven;
+ <br>
+- ❄️I’m looking for work as a Web Developer;
 <br>
 <br>
 <p style="margin-left:10px"> At this moment i am 19 years old, i am a computer science student<br> 
- looking to learn new languages, job experciences and to be a professional programmer</p>
+ looking to learn new languages, job experciences and to be a professional programmer;</p>
 <p>#python #java #html #css #javascript #react</p>
 
 ##
