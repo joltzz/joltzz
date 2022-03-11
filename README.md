@@ -1,6 +1,6 @@
 ### Hello there, my name is Guilherme Silva
 <div>
-  <img align="right" alt="Git-Computador" width="250px" src="https://c.tenor.com/CHuHmldfxCEAAAAC/pokemon-clefairy.gif"/>
+  <img align="right" align="top" alt="Git-Computador" width="250px" src="https://c.tenor.com/CHuHmldfxCEAAAAC/pokemon-clefairy.gif"/>
 </div>
 - ❄️I’m currently studying Full Stack Development at Driven
 - <br>
