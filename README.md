@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+there!;My+name+is+Guilherme+Silva)](https://git.io/typing-svg)
 
 <img align="right" align="top" alt="Git-Computador" width="250px" src="https://c.tenor.com/CHuHmldfxCEAAAAC/pokemon-clefairy.gif](https://tenor.com/view/pokemon-clefairy-confused-lost-gif-5702557)"/>
- ❄️<b>I’m currently studying to be a Full Stack Development at Driven;</b><br>
+ ❄️<b>I’m currently studying to be a Full Stack Dev at Driven;</b><br>
  ❄️<b>At this moment i am 19 years old;</b><br>
  ❄️<b>Computer Science student at Unisinos;</b><br>
  ❄️<b>Looking foward to learn new languages and to be a professional programmer;</b>
